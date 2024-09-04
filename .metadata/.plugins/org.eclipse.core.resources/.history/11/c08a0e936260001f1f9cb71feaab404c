@@ -1,0 +1,19 @@
+package BatchTesting;
+import org.testng.annotations.*;
+public class HomeScreenTest {
+	
+	//LaunchApplication
+	//VerifyTitle
+	//VerifyLogo
+
+	@Test
+	public void LaunchApplication() {
+		
+	}
+	public void Verifytitle() {
+		
+	}
+	public void VerifyLogo() {
+		
+	}
+}

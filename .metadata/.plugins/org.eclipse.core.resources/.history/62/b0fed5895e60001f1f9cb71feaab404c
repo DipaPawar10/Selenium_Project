@@ -1,0 +1,51 @@
+package Demo;
+
+import org.testng.ITestListener;
+
+public class ListnerClass implements ITestListener {
+	
+	@Override		
+    public void onStart(ITestContext Result) {					
+        // TODO Auto-generated method stub				
+        		
+    }
+	
+	@Override		
+    public void onFinish(ITestContext Result) {					
+        // TODO Auto-generated method stub				
+        		
+    }		
+
+    		
+
+    @Override		
+    public void onTestFailedButWithinSuccessPercentage(ITestResult Result) {					
+        // TODO Auto-generated method stub				
+        		
+    }		
+
+    @Override		
+    public void onTestFailure(ITestResult Result) {					
+        // TODO Auto-generated method stub				
+        		
+    }		
+
+    @Override		
+    public void onTestSkipped(ITestResult Result) {					
+        // TODO Auto-generated method stub				
+        		
+    }		
+
+    @Override		
+    public void onTestStart(ITestResult Result) {					
+        // TODO Auto-generated method stub				
+        		
+    }		
+
+    @Override		
+    public void onTestSuccess(ITestResult Result) {					
+        // TODO Auto-generated method stub				
+        		
+    }		
+
+}

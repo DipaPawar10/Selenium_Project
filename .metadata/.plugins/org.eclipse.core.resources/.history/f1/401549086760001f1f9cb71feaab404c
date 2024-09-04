@@ -1,0 +1,15 @@
+package BatchTesting;
+import org.testng.annotations.*;
+
+
+public class PaymentTest {
+
+	
+	public void AddProductToWishList() {
+		System.out.println("AddProductToWishList pass");
+	}
+	
+	public void AddProductToWishList() {
+		System.out.println("AddProductToWishList pass");
+	}
+}

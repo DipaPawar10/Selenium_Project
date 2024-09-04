@@ -1,0 +1,7 @@
+package BatchTesting;
+import org.testng.annotations.*;
+
+public class LoginTest {
+	//LoginByMobileNumber()
+	//LoginByemail()
+}

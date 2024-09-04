@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Demo.ParallelTestDemo&apos; to &apos;ParallelTestDemo1&apos;&#x0D;&#x0A;- Original project: &apos;TestNgPractice&apos;&#x0D;&#x0A;- Original element: &apos;Demo.ParallelTestDemo&apos;&#x0D;&#x0A;- Renamed element: &apos;Demo.ParallelTestDemo1&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;ParallelTestDemo&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/test\/java=/test=/true=/=/optional=/true=/=/maven.pomderived=/true=/&lt;Demo{ParallelTestDemo.java[ParallelTestDemo" matchStrategy="1" name="ParallelTestDemo1" qualified="false" references="true" similarDeclarations="false" stamp="1723711621783" textual="false" version="1.0"/>
+</session>

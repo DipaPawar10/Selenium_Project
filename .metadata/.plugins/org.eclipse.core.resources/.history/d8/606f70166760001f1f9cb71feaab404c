@@ -1,0 +1,22 @@
+package BatchTesting;
+import org.testng.annotations.*;
+
+
+public class ProductPageTest {
+	//AddProductToWishList()
+	//AddProductToCart()
+	//SelectQuantity()
+	
+	public void AddProductToWishList() {
+		System.out.println("AddProductToWishList pass");
+	}
+	
+	public void AddProductToCart() {
+		System.out.println("AddProductToCart pass");
+	}
+	
+	public void SelectQuantity() {
+		System.out.println("SelectQuantity pass");
+	}
+
+}

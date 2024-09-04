@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;PageObject.uploadImage&apos; to &apos;UploadImage&apos;&#x0D;&#x0A;- Original project: &apos;SeleniumPractice&apos;&#x0D;&#x0A;- Original element: &apos;PageObject.uploadImage&apos;&#x0D;&#x0A;- Renamed element: &apos;PageObject.UploadImage&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;uploadImage&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/test\/java=/test=/true=/=/optional=/true=/=/maven.pomderived=/true=/&lt;PageObject{uploadImage.java[uploadImage" matchStrategy="1" name="UploadImage" qualified="false" references="true" similarDeclarations="false" stamp="1721205157680" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,17 @@
+package BatchTesting;
+import org.testng.annotations.*;
+
+
+public class PaymentTest {
+	
+	//CashOnDelivery()
+	//NetBAnking
+
+	 void CashOnDelivery() {
+		System.out.println("CashOnDelivery pass");
+	}
+	
+	public void NetBAnking() {
+		System.out.println("NetBAnking pass");
+	}
+}

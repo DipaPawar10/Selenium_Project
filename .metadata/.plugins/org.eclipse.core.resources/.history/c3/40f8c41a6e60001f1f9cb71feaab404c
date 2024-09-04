@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <suite-files>
+  	<suite-file path="C:\Users\Lenovo\Desktop\Selenium_TestNG\TestNgPractice\src\test\java\BatchTesting\FunctionalTestSuit.xml"></suite-file>
+  	<suite-file path="C:\Users\Lenovo\Desktop\Selenium_TestNG\TestNgPractice\src\test\java\BatchTesting\SanityTestSuit.xml"></suite-file>
+  </suite-files>
+</suite> <!-- Suite -->
